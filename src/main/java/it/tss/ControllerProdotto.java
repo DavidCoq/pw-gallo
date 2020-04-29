@@ -8,5 +8,6 @@ import javax.inject.Named;
 
 @Named("contProd")
 public class ControllerProdotto {
+    //
 
 }
